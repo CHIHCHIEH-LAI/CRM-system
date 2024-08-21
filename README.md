@@ -17,6 +17,7 @@ I am responsible for the full lifecycle of the CRM System, including:
 -	Frontend Development: Developing the user interface using Flutter.
 -	DevOps and Deployment: Managing deployment on AWS, including CI/CD pipelines.
 -	Security Implementations: Ensuring secure operations through IAM roles, encryption, and CORS configurations.
+-	Unit Testing and Code Quality: Implementing comprehensive unit tests, achieving 88% statement coverage.
 -	Future Enhancements: Continuously planning and implementing new features to improve the system.
 
 ## Requirements Engineering
@@ -60,6 +61,10 @@ To ensure the CRM system meets the needs of its users, I conducted the following
 - Encryption: Implemented asymmetric key encryption for secure device activations.
 - CORS Configuration: Set up CORS policies to secure API interactions.
 - Domain Management: Managed custom domain names using AWS Route 53, enhancing branding and user experience.
+
+## Unit Testing and Code Quality
+
+- Test Coverage: Developed a comprehensive suite of unit tests, achieving 88% statement coverage.
 
 ## Future Features and Ongoing Work
 
