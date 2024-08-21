@@ -34,7 +34,6 @@ To ensure the CRM system meets the needs of its users, I conducted the following
 ## API Development
 
 - API Creation: Designed and developed RESTful APIs to handle product management, purchases, user profiles, licenses, and device activations.
-- API Testing: Conducted thorough testing using Postman to ensure reliability and performance across all endpoints.
 
 ## Backend Development
 
