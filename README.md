@@ -70,6 +70,7 @@ To ensure the CRM system meets the needs of its users, I conducted the following
 
 I am continually working to enhance the CRM System with the following planned features:
 
+- Issue Platform: Developing a system where customers can report issues or requests, automatically notifying the relevant parties to ensure timely resolutions and efficient communication.
 - Notifications System: Developing a real-time notifications system to keep users informed of important updates.
 - Q/A Chat System: Implementing a chat interface for real-time user support interactions.
 - Payment System: Integrating payment gateways for secure transactions.
